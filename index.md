@@ -1,7 +1,7 @@
 ---
 title:  PROBABILIDAD Y ESTADÍSTICA
-subtitle: Unas gafas para entender el mundo <br> <br> Jornada d'Educació Estadística (6/5/2019) <br> <img src="assets/logoice.jpg" align="center" style="padding-right:0px;" width="200" > <br>
-author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a>  <br>  <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px">
+subtitle: Unas gafas para entender el mundo <br> <br> Jornada d'Educació Estadística (6/5/2019) <br> <img src="assets/logoice.jpg" align="center" style="padding-right:0px;" width="200" > 
+author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px">
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
@@ -22,7 +22,7 @@ rollingLinks: true
 
 # ¿Por qué estadística y por qué probabilidad?
 
-## 
+## El poder de los gráficos y de los datos
 
 :::::::::::::: {.columns}
 
@@ -71,6 +71,11 @@ Cuentas de Twitter que analizan gráficos erróneos en los medios o la forma de 
 ##
 
  ![](assets/images/apuestas04.png) 
+
+
+## Prevención de pseudociencias y charlatanerías
+
+Homeopatía
 
 
 
@@ -165,7 +170,6 @@ Probando
 
 ##
 
-
 :::::::::::::: {.columns}
 
 ::: {.column width="45%"}
@@ -174,6 +178,32 @@ Probando
 
 :::
 ::: {.column width="45%"}
+ ![](assets/images/timeline1.jpg) 
+:::
+::::::::::::::
+
+
+
+##
+
+:::::::::::::: {.columns}
+
+::: {.column width="65%"}
+
+::: incremental
+
+1.  1650 a.C. - La invención de las fracciones
+2. 458 -  La utilización del cero.
+3. 1489 - La invención de los signos + y - (J. Widmann).
+4. 1492 - El descubrimiento de América (por los europeos)    
+5. 1654 - La teoría de la probabilidad (Pascal y Fermat).
+6. 1666 - El descubrimiento de la gravitación universal (I. Newton).
+7. 1665 - El descubrimiento de la célula (R. Hooke). 
+8. 1858 - La teoría de la evolución (C. Darwin).
+:::
+
+:::
+::: {.column width="35%"}
  ![](assets/images/timeline2.jpg) 
 :::
 ::::::::::::::
@@ -246,12 +276,6 @@ Un post de @ddmeyer: [http://blog.mrmeyer.com/2019/dont-teach-math-the-smart-way
 
 
 
-# Juegos y sorteos
-
-##
-
-Algunos de estos juegos contribuyen a la formación de creencias, como, por ejemplo, que el número cinco es el más difícil, cuando se lanza un dado. Todas estas actividades se podrían aprovechar en relación con
-la introducción de la probabilidad
 
 # Experimentación y estimación frecuencial de probabilidades
 
@@ -427,13 +451,261 @@ Dado con las esquinas redondeadas (forma básica)
 
 :::::::::::::
 
-# Recursos disponibles en Internet
+
+
+# Juegos y sorteos
+
+## ¿En qué juego pensamos cuando pensamos en probabilidad?
+
+. . .
+
+¿Tal vez este?
+
+![](assets/images/oca.jpg){ width=65% }
+
+
+::: notes
+
+Sistema de turnos.
+La vida pasa.
+
+:::
+
+## 
+
+¿O este otro?
+
+![](assets/images/parchis.png)
+
+
+
+
+##
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+![](assets/images/parchis.png)
+
+:::
+
+::: {.column width="55%"}
+
+Algunos de estos juegos contribuyen a la formación de creencias, como, por ejemplo, que el número cinco es el más difícil, cuando se lanza un dado. Todas estas actividades se podrían aprovechar en relación con
+la introducción de la probabilidad
+
+:::
+
+:::::::::::::
+
+## Una propuesta para infantil
+
+## El frutal (Obstgarten)
+
+
+![](assets/images/frutal1.jpg){ width=62% }
+
+Beltrán-Pellicer, P. (2017). Una propuesta sobre probabilidad en educación infantil con juegos de mesa. _EDMA0-6, 6_(1), 53-61. [Enlace.](http://www.edma0-6.es/index.php/edma0-6/article/view/25/22)
+
+
+##
+
+:::::::::::::: {.columns}
+::: {.column width="65%"}
+
+![](assets/images/frutal3.jpg)
+
+:::
+
+::: {.column width="30%"}
+
+- Cooperativo.
+- Conteo.
+- Colores.
+- Turnos.
+- Probabilidad.
+
+
+:::
+
+:::::::::::::
+
+##
+
+:::::::::::::: {.columns}
+::: {.column width="35%"}
+
+![](assets/images/frutal2.jpg){ width=80% }
+
+
+:::
+
+::: {.column width="65%"}
+
+1. Azul: el jugador coge una ciruela.
+2. Verde: el jugador coge una manzana.
+3. Rojo: se coge una cereza.
+4. Amarillo: se coge una pera.
+5. Cesta: es el premio gordo, se pueden coger dos piezas de fruta *a elegir*.
+6. Cuervo: lo peor de lo peor. Se coloca una pieza del puzle central, que tiene 9. 
+
+:::
+
+:::::::::::::
+
+
+## Un juego de mayores
+
+Infantil y primaria
+
+![](assets/images/catan.jpg){ width=80% }
+
+## Lo hemos visto en...
+
+The Big Bang Theory
+
+![](assets/images/bigbangcatan.jpg){ width=80% }
+
+
+## Catán junior
+
+Infantil y primaria
+
+![](assets/images/catan0.jpg){ width=60% }
+
+## 
+
+![](assets/images/catan1.jpg){ width=80% }
+
+## 
+
+:::::::::::::: {.columns}
+::: {.column width="45%"}
+
+![](assets/images/catan2.jpg){ width=95% }
+
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/catan3.jpg){ width=95% }
+:::
+
+:::::::::::::
+
+
+## Leyendas de Andor
+
+![](assets/images/andor0.jpg){ width=80% }
+
+## 
+
+![](assets/images/andor1.jpg){ width=80% }
+
+
+## 
+
+![](assets/images/andor3.jpg){ width=80% }
+
+
+
+## Colt Express
+
+Primaria en adelante.
+
+![](assets/images/colt1.png){ width=80% }
+
+
+## Colt Express
+
+Pensamiento computacional y toma de decisiones en el Far West.
+
+![](assets/images/colt2.png){ width=80% }
+
+
+## Adaptaciones 
+
+
+
+
+# Dibujos animados
+
+## El problema del mediodía
+
+:::::::::::::: {.columns}
+::: {.column width="55%"}
+
+![](assets/images/peg1.png)
+[Peg+Gato](http://www.rtve.es/infantil/series/peggato/)
+:::
+
+::: {.column width="45%"}
+
+
+Edades 5-7 años (aprox).
+
+- Tiempo (mediodía).
+- Probabilidad: duelo con Jack «el Malo»
+
+:::
+
+:::::::::::::
+
+::: notes
+Botas cortas: pluma corta.
+Botas altas: pluma larga para llegar a su tripa.
+Peg hace una pequeña investigación
+:::
+
+## Recuento 
+
+Miniproyecto estadístico para la toma de una decisión.
+
+![](assets/images/peg2.png)
+
+
+
+## Predicción correcta... ¿o no?
+
+![](assets/images/peg3.png)
+
+## Cyberchase
+
+:::::::::::::: {.columns}
+::: {.column width="55%"}
+
+![](assets/images/cyber02.png)
+
+:::
+
+::: {.column width="45%"}
+
+- _Ayudar a los indecisos..._
+- Más orientado a primaria y primer ciclo de ESO.
+
+:::
+
+:::::::::::::
+
+## Juego justo
+
+[Youtube: Cyberchase 1x03 "Ciudad justa"](https://www.youtube.com/watch?v=iw-6fUT8iC4)
+
+![](assets/images/cyber01.png){ width=60% }
+
+
+# Recursos en Internet
 
 ## Simuladores de experimentos
 
 [Laboratorio básico de Azar, Probabilidad y Combinatoria](http://ntic.educacion.es/w3/eos/MaterialesEducativos/mem2010/labazar/index.html)
  
  ![](assets/images/laboazar.jpg)
+
+##
+
+
  
 ## Desmos
 
@@ -445,25 +717,25 @@ Dado con las esquinas redondeadas (forma básica)
 
 ## Lista de referencias
 
-Alsina, Á., & Salgado, M. (2019). [Ampliando los conocimientos matemáticos en Educación Infantil: la incorporación de la probabilidad]( https://doi.org/10.21703/rexe.20191836alsina6). _Revista de Estudios y Experiencias En Educación, 18_(36), 225–240.
+Alsina, Á., & Salgado, M. (2019). Ampliando los conocimientos matemáticos en Educación Infantil: la incorporación de la probabilidad. _Revista de Estudios y Experiencias En Educación, 18_(36), 225–240. [Enlace.](https://doi.org/10.21703/rexe.20191836alsina6)
 
-Batanero, C., & Díaz, C. (2011). [_Estadística con proyectos_](https://www.ugr.es/~batanero/pages/ARTICULOS/Libroproyectos.pdf). Granada: Universidad de Granada.
+Batanero, C., & Díaz, C. (2011). _Estadística con proyectos_. Granada: Universidad de Granada. [Enlace.](https://www.ugr.es/~batanero/pages/ARTICULOS/Libroproyectos.pdf)
 
-Batanero, C., & Godino, J. D. (2003). [*Estocástica y su didáctica para maestros*](https://www.ugr.es/~jgodino/edumat-maestros/manual/6_Estocastica.pdf). Departamento de Didáctica de las Matemáticas. Universidad de Granada.
+Batanero, C., & Godino, J. D. (2003). _Estocástica y su didáctica para maestros_. Departamento de Didáctica de las Matemáticas. Universidad de Granada. [Enlace.](https://www.ugr.es/~jgodino/edumat-maestros/manual/6_Estocastica.pdf)
 
-Beltrán-Pellicer, P. (2017). [Modelado e impresión 3D como recurso didáctico en el aprendizaje de la probabilidad](http://thales.cica.es/epsilon/sites/thales.cica.es.epsilon/files/epsilon95_6.pdf). _Épsilon: Revista de Educación Matemática, 34_(95), 99-106.
+Beltrán-Pellicer, P. (2017). Modelado e impresión 3D como recurso didáctico en el aprendizaje de la probabilidad. _Épsilon: Revista de Educación Matemática, 34_(95), 99-106. [Enlace.](http://thales.cica.es/epsilon/sites/thales.cica.es.epsilon/files/epsilon95_6.pdf)
 
 ##
 
-Beltrán-Pellicer, P. (2017). [Una propuesta sobre probabilidad en educación infantil con juegos de mesa](http://www.edma0-6.es/index.php/edma0-6/article/view/25/22). _EDMA0-6: Educación Matemática en la Infancia, 6_(1), 53-61.
+Beltrán-Pellicer, P. (2017). Una propuesta sobre probabilidad en educación infantil con juegos de mesa. _EDMA0-6: Educación Matemática en la Infancia, 6_(1), 53-61. [Enlace.](http://www.edma0-6.es/index.php/edma0-6/article/view/25/22)
 
-
-Beltrán-Pellicer, P., Ricart, M., & Estrada, A. (2019). [Una experiencia sobre el diseño de juegos como recurso para desarrollar la competencia didáctico-matemática en probabilidad con docentes de infantil y primaria](https://www.researchgate.net/publication/331435985_Una_experiencia_sobre_el_diseno_de_juegos_como_recurso_para_desarrollar_la_competencia_didactico-matematica_en_probabilidad_con_docentes_de_infantil_y_primaria). En J. M. Contreras, M. M. Gea, M. M. López-Martín, & E. Molina-Portillo (Eds.) Actas del Tercer Congreso Internacional Virtual de Educación Estadística (pp. 1-10).
+Beltrán-Pellicer, P., Ricart, M., & Estrada, A. (2019). Una experiencia sobre el diseño de juegos como recurso para desarrollar la competencia didáctico-matemática en probabilidad con docentes de infantil y primaria. En J. M. Contreras, M. M. Gea, M. M. López-Martín, & E. Molina-Portillo (Eds.) _Actas del Tercer Congreso Internacional Virtual de Educación Estadística_ (pp. 1-10). [Enlace](https://www.researchgate.net/publication/331435985_Una_experiencia_sobre_el_diseno_de_juegos_como_recurso_para_desarrollar_la_competencia_didactico-matematica_en_probabilidad_con_docentes_de_infantil_y_primaria)
 
 Godino, J. D., Batanero, C., & Cañizares, M. J. (1987). _Azar y probabilidad_. Madrid: Síntesis. 
 
+##
 
-Vásquez, C., & Alsina, A. (2019). [Conocimiento especializado del profesorado de educación básica para la enseñanza de la probabilidad](https://doi.org/10.30827/profesorado.v23i1.9160). _Profesorado, Revista de Currículum y Formación Del Profesorado, 23_(1), 393-419. 
+Vásquez, C., & Alsina, A. (2019). Conocimiento especializado del profesorado de educación básica para la enseñanza de la probabilidad. _Profesorado, Revista de Currículum y Formación Del Profesorado, 23_(1), 393-419. [Enlace.](https://doi.org/10.30827/profesorado.v23i1.9160)
 
 ## Créditos
 
@@ -479,12 +751,8 @@ Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a
 
 ## 
 
-Images 
-Most of the diagrams and stuff are self-made (CC license like above). 
+Las imágenes son propias o de dominio público, salvo las que se ha citado ya la fuente.
 
-The icons/logos are from flaticon.com published under CC license as well: Stackoverflow, Github, Linkedin, Xing, GCFA, GCNA. 
-
-The background images are from flickr.com published under CC license as well: knitting needles, Fun With Bike Lights 2, The Beauty of Mathematics, SIS building, Long road, Green, Money.
 
 ## 
 
