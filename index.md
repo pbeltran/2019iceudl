@@ -8,6 +8,28 @@ lang: es-ES
 
 ---
 
+# Esta presentación tiene enlaces
+
+##
+
+:::::::::::::: {.columns}
+
+::: {.column width="65%"}
+
+<center> ![](assets/qr.png) </center>
+
+[https://pbeltran.github.io/2019iceudl](https://pbeltran.github.io/2019iceudl)
+
+:::
+
+
+::: {.column width="35%"}
+
+Acceso a la presentación
+
+:::
+::::::::::::::
+
 
 
 # ¿Por qué estadística y por qué probabilidad?
