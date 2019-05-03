@@ -2,7 +2,6 @@
 title:  PROBABILIDAD Y ESTADÍSTICA
 subtitle: Unas gafas para entender el mundo <br> <br> Jornada d'Educació Estadística (6/5/2019) <br> <img src="assets/logoice.jpg" align="center" style="padding-right:0px;" width="200" > <br>
 author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a>  <br>  <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px">
-
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
@@ -468,10 +467,29 @@ Vásquez, C., & Alsina, A. (2019). [Conocimiento especializado del profesorado d
 
 ## Créditos
 
+Compartir el conocimiento de forma libre es una buena práctica. 
+
+En esta presentación se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de esta presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, pero tienes que citarme (Pablo Beltrán-Pellicer) y poner un enlace a esta presentación. 
+
+Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones.
+
+-----
+
+Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>
+
+## 
+
+Images 
+Most of the diagrams and stuff are self-made (CC license like above). 
+
+The icons/logos are from flaticon.com published under CC license as well: Stackoverflow, Github, Linkedin, Xing, GCFA, GCNA. 
+
+The background images are from flickr.com published under CC license as well: knitting needles, Fun With Bike Lights 2, The Beauty of Mathematics, SIS building, Long road, Green, Money.
+
 ## 
 
 
-Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>
+
 
 
 
