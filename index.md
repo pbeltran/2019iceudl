@@ -5,30 +5,19 @@ author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a
 
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
+rollingLinks: true
 
 ---
 
-# Esta presentación tiene enlaces
+# Acceso a la presentación
 
 ##
 
-:::::::::::::: {.columns}
 
-::: {.column width="65%"}
-
-<center> ![](assets/qr.png) </center>
+ ![](assets/qr.png) 
 
 [https://pbeltran.github.io/2019iceudl](https://pbeltran.github.io/2019iceudl)
 
-:::
-
-
-::: {.column width="35%"}
-
-Acceso a la presentación
-
-:::
-::::::::::::::
 
 
 
@@ -68,21 +57,21 @@ Cuentas de Twitter que analizan gráficos erróneos en los medios o la forma de 
 ## Casas de apuestas
 
 
-<center> ![](assets/images/apuestas01.png) </center>
+ ![](assets/images/apuestas01.png) 
 
 ##
 
-<center> ![](assets/images/apuestas02.png) </center>
-
-
-##
-
-<center> ![](assets/images/apuestas03.png) </center>
+ ![](assets/images/apuestas02.png) 
 
 
 ##
 
-<center> ![](assets/images/apuestas04.png) </center>
+ ![](assets/images/apuestas03.png) 
+
+
+##
+
+ ![](assets/images/apuestas04.png) 
 
 
 
@@ -92,7 +81,7 @@ Cuentas de Twitter que analizan gráficos erróneos en los medios o la forma de 
 
 ::: {.column width="55%"}
 
-<center> ![](assets/images/mundstock.png) </center>
+ ![](assets/images/mundstock.png) 
 
 [Enlace al vídeo del \#CILE2019](https://www.youtube.com/watch?v=2NDxV3q-fEo)
 
@@ -133,7 +122,7 @@ Mejor que mundo, sería decir "sociedad". Estadística, etimología, estado.
 
 ::: {.column width="35%"}
 
-<center> ![](assets/images/homodeus.jpg) </center>
+ ![](assets/images/homodeus.jpg) 
 :::
 
 ::: {.column width="55%"}
@@ -174,6 +163,22 @@ Probando
 :::
 
 # ¿Fácil o dificil?
+
+##
+
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+ ![](assets/images/timeline1.jpg) 
+
+:::
+::: {.column width="45%"}
+ ![](assets/images/timeline2.jpg) 
+:::
+::::::::::::::
+
 
 ## Veamos
 
@@ -465,4 +470,9 @@ Vásquez, C., & Alsina, A. (2019). [Conocimiento especializado del profesorado d
 
 ## 
 
+
 Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>
+
+
+
+
