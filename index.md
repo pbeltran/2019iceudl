@@ -163,55 +163,52 @@ Probando
 ::: notes
 
 
-
 :::
 
-# ¿Fácil o dificil?
+# ¿Fácil o difícil?
 
-##
+## Un mini estudio estadístico en Desmos
 
 :::::::::::::: {.columns}
 
 ::: {.column width="45%"}
 
- ![](assets/images/timeline1.jpg) 
+![](assets/images/desmosstart.png) 
+
+[Enlace a la actividad](https://student.desmos.com/?prepopulateCode=mbays3)
 
 :::
 ::: {.column width="45%"}
- ![](assets/images/timeline1.jpg) 
-:::
-::::::::::::::
-
-
-
-##
-
-:::::::::::::: {.columns}
-
-::: {.column width="65%"}
-
-::: incremental
-
-1.  1650 a.C. - La invención de las fracciones
-2. 458 -  La utilización del cero.
-3. 1489 - La invención de los signos + y - (J. Widmann).
-4. 1492 - El descubrimiento de América (por los europeos)    
-5. 1654 - La teoría de la probabilidad (Pascal y Fermat).
-6. 1666 - El descubrimiento de la gravitación universal (I. Newton).
-7. 1665 - El descubrimiento de la célula (R. Hooke). 
-8. 1858 - La teoría de la evolución (C. Darwin).
-:::
-
-:::
-::: {.column width="35%"}
- ![](assets/images/timeline2.jpg) 
+ ![](assets/images/desmos1.png) 
+ 
+ - Continue without signing in.
+ - Ignorar mensajes de aviso de pantalla pequeña.
+ 
 :::
 ::::::::::::::
 
 
 ## Veamos
 
-Encuesta...
+::: incremental
+
+1. 3050 a.C. - Primeros registros estadísticos.
+2. 1650 a.C. - La invención de las fracciones
+3. 458 -  La utilización del cero.
+4. 1489 - La invención de los signos + y - (J. Widmann).
+5. 1492 - El descubrimiento de América (por los europeos)    
+6. 1654 - La teoría de la probabilidad (Pascal y Fermat).
+7. 1666 - El descubrimiento de la gravitación universal (I. Newton).
+8. 1665 - El descubrimiento de la célula (R. Hooke). 
+9. 1858 - La teoría de la evolución (C. Darwin).
+
+:::
+
+::: notes
+
+Comentar los resultados.
+
+:::
 
 
 # Algunas orientaciones
@@ -249,20 +246,20 @@ Encuesta...
 
 # No enseñes matemáticas a la manera "inteligente"
 ## Si eres bueno en mates, es que eres muy inteligente
-Un post de @ddmeyer: [http://blog.mrmeyer.com/2019/dont-teach-math-the-smart-way/](http://blog.mrmeyer.com/2019/dont-teach-math-the-smart-way/)
+Un post de [\@ddmeyer](http://blog.mrmeyer.com/2019/dont-teach-math-the-smart-way/)
 
-![](assets/images/smartway.jpg)
+![](assets/images/smartway.jpg){width=60%}
 
 ## ¿Por qué no así?
 
-![](assets/images/desmostime.gif)
+![](assets/images/desmostime.gif){width=80%}
 
 [Enlace a la actividad de Desmos](https://teacher.desmos.com/polygraph/custom/5c9d3a222ab03627ab029c12)
 
 
 ## ¿Por qué no así? (continuación)
 
-![](assets/images/desmostime2.gif)
+![](assets/images/desmostime2.gif){width=70%}
 
 [Enlace a la actividad de Desmos](https://teacher.desmos.com/activitybuilder/custom/5c915c7f1957670c4053bd4e)
 
@@ -701,15 +698,13 @@ Miniproyecto estadístico para la toma de una decisión.
 
 [Laboratorio básico de Azar, Probabilidad y Combinatoria](http://ntic.educacion.es/w3/eos/MaterialesEducativos/mem2010/labazar/index.html)
  
- ![](assets/images/laboazar.jpg)
+ ![](assets/images/laboazar.jpg){width=60%}
 
-##
-
-
- 
 ## Desmos
 
+[Chance experiments](https://teacher.desmos.com/activitybuilder/custom/59233c9aefd17610dbbd684e)
 
+![](assets/images/desmoschance.jpg){width=60%}
 
 
 
@@ -739,22 +734,18 @@ Vásquez, C., & Alsina, A. (2019). Conocimiento especializado del profesorado de
 
 ## Créditos
 
-Compartir el conocimiento de forma libre es una buena práctica. 
+_Compartir el conocimiento de forma libre es una buena práctica._
 
-En esta presentación se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de esta presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, pero tienes que citarme (Pablo Beltrán-Pellicer) y poner un enlace a esta presentación. 
+En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, pero tienes que citarme (Pablo Beltrán-Pellicer) y poner un enlace a [https://pbeltran.github.io/2019iceudl](https://pbeltran.github.io/2019iceudl). 
 
-Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones.
+_Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
 
------
+##
 
 Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>
 
-## 
-
-Las imágenes son propias o de dominio público, salvo las que se ha citado ya la fuente.
-
-
-## 
+Las imágenes son propias o de dominio público, salvo las que se ha citado la fuente en su diapositiva.
+ 
 
 
 
