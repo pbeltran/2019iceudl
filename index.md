@@ -1,6 +1,6 @@
 ---
 title:  PROBABILIDAD Y ESTADÍSTICA
-subtitle: Unas gafas para entender el mundo <br> <br> Jornada d'Educació Estadística (6/5/2019) <br> <img src="assets/logoice.jpg" align="center" style="padding-right:0px;" width="200" > 
+subtitle: Unas gafas para entender el mundo <br> <br> Jornada d'Educació Estadística (4/5/2019) <br> <img src="assets/logoice.jpg" align="center" style="padding-right:0px;" width="200" > 
 author: <a href="http://personal.unizar.es/pbeltran/">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px">
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
