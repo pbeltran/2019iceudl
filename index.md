@@ -289,6 +289,44 @@ Un post de [\@ddmeyer](http://blog.mrmeyer.com/2019/dont-teach-math-the-smart-wa
 
 >"Defining _smartness_ narrowly is to define _dumbness_ broadly. Instead, we should seek to find smartness as often as possible in as many students as possible". (@ddmeyer)
 
+## Pero... esto no es nuevo
+
+Hay un consenso en que la resolución de problemas es lo más importante en esto de las matemáticas. Acerca de ello, hay que considerar tres perspectivas:
+
+::: incremental
+
+- Enseñar **para** resolver problemas. 
+- Enseñar **a través** de la resolución de problemas. 
+- Enseñar **sobre** resolución de problemas. 
+
+:::
+
+. . .
+
+Para indagar un poquito sobre esto: [Gaulin \(2001\)](http://www.hezkuntza.ejgv.euskadi.eus/r43-573/es/contenidos/informacion/dia6_sigma/es_sigma/adjuntos/sigma_19/7_Tendencias_Actuales.pdf)
+
+##
+
+De hecho, también hay consenso en que lo ideal es vertebrar los contenidos a través de la resolución de problemas. English y Gainsburg (2016) se expresan así:
+
+>Hemos descrito un debate de décadas sobre la enseñanza de la resolución de problemas frente a la enseñanza a través de la resolución de problemas. El conocimiento del contenido matemático en sí mismo casi nunca es una demanda explícita por parte de los empresarios. Ahora bien, estos desean trabajadores que sean resolutores eficientes de problemas, lo que implícitamente conduce a los centros educativos a enseñar la resolución de problemas como un fin en sí mismo. 
+
+::: notes
+
+Empresarios, aquí podríamos hablar de lo que es una visión utilitarista y otra más humanista. Pero eso es otra historia.
+
+:::
+
+
+##
+
+>Por lo tanto, a pesar de la reciente tendencia de la comunidad de educación matemática hacia la resolución de problemas como vehículo para el aprendizaje del contenido matemático, recomendamos cumplir ambos objetivos.
+
+
+##
+
+>Abogamos por reestructurar este debate para preguntar, en cambio, cómo podemos diseñar problemas que sean lo suficientemente exigentes desde el punto de vista cognitiva, como para fomentar tanto el contenido matemático significativo como las competencias de resolución de problemas. Para empezar, podríamos considerar la redefinición de la resolución de problemas como una experiencia en la que el resolutor o un grupo cooperativo "necesita desarrollar una estrategia matemática más productiva de pensar sobre la situación dada" (Lesh y Zawojewski, 2007, p. 782).
+
 
 
 # Experimentación y estimación frecuencial de probabilidades
@@ -846,6 +884,7 @@ Beltrán-Pellicer, P., Ricart, M., & Estrada, A. (2019). Una experiencia sobre e
 Godino, J. D., Batanero, C., & Cañizares, M. J. (1987). _Azar y probabilidad_. Madrid: Síntesis. 
 
 ##
+English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L.D. English, & D. Kirshner, _Handbook of international research in mathematics education_ (p. 326). New York: Routledge.
 
 Vásquez, C., & Alsina, A. (2019). Conocimiento especializado del profesorado de educación básica para la enseñanza de la probabilidad. _Profesorado, Revista de Currículum y Formación Del Profesorado, 23_(1), 393-419. [Enlace.](https://doi.org/10.30827/profesorado.v23i1.9160)
 
@@ -859,7 +898,7 @@ _Siéntete libre de trabajar con este material y de contactar conmigo para compa
 
 ##
 
-Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>
+Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>.
 
 Las imágenes son propias o de dominio público, salvo las que se ha citado la fuente en su diapositiva.
  
