@@ -214,8 +214,8 @@ Nosotros: de forma inconsciente, como el mono, o consciente.
 4. 1489 - La invención de los signos + y - (J. Widmann).
 5. 1492 - El descubrimiento de América (por los europeos)    
 6. 1654 - La teoría de la probabilidad (Pascal y Fermat).
-7. 1666 - El descubrimiento de la gravitación universal (I. Newton).
-8. 1665 - El descubrimiento de la célula (R. Hooke). 
+7. 1665 - El descubrimiento de la célula (R. Hooke). 
+8. 1666 - El descubrimiento de la gravitación universal (I. Newton).
 9. 1858 - La teoría de la evolución (C. Darwin).
 
 :::
