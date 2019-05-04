@@ -22,7 +22,9 @@ rollingLinks: true
 
 # ¿Por qué estadística y por qué probabilidad?
 
-## El poder de los gráficos y de los datos
+## Entre otras cosas...
+
+El poder de los gráficos y de los datos
 
 :::::::::::::: {.columns}
 
@@ -44,13 +46,13 @@ Otra cosa no, pero las elecciones nos traen material de aula de primer orden.
 
 ## Por ejemplo, una que ha tenido mucho recorrido...
 
-La de Casado...
+![](assets/images/debate_rtve_pp1.png){width=60%}
+
 
 ::: notes
 Cuentas de Twitter que analizan gráficos erróneos en los medios o la forma de presentar datos.
 \@malaprensa
 \@numeroteca
-
 :::
 
 ## Casas de apuestas
@@ -72,11 +74,11 @@ Cuentas de Twitter que analizan gráficos erróneos en los medios o la forma de 
 
  ![](assets/images/apuestas04.png) 
 
+::: notes
 
-## Prevención de pseudociencias y charlatanerías
+Más: prevención de pseudociencias.
 
-Homeopatía
-
+:::
 
 
 ## Humor
@@ -131,37 +133,51 @@ Mejor que mundo, sería decir "sociedad". Estadística, etimología, estado.
 
 ::: {.column width="55%"}
 
-Yuval Noah Harari 
+::: incremental
 
+- En su anterior libro, _Sapiens_, Yuval Noah Harari hace una revisión de lo ocurrido hasta ahora.
+- En _Homo Deus_ reflexiona sobre el futuro de la humanidad.
+- Por ejemplo, aborda el papel de los datos y de cómo razonamos.
+
+:::
 
 :::
 ::::::::::::::
 
+:::notes
+Es historiador.
+:::
 
-## Una historia ...
 
-:::::::::::::: {.columns}
-::: {.column width="60%"}
+## Una historia que cuenta Harari...
 
-Un babuino ve unas bananas que cuelgan de un árbol, pero también se da cuenta de que un león acecha en las inmediaciones. ¿Debería el babuino arriesgar su vida por esas bananas?
+
+>Un babuino ve unas bananas que cuelgan de un árbol, pero también se da cuenta de que un león acecha en las inmediaciones. ¿Debería el babuino arriesgar su vida por esas bananas?
 
 . . .
 
 La situación se reduce a un problema matemático de cálculo de probabilidades: la probabilidad de que el babuino muera de hambre si no come las bananas frente a la probabilidad de que el león atrape al babuino.
 
-Para resolver este problema, el babuino necesita tener en cuenta muchos datos: «¿Qué distancia me separa de las bananas? ¿Y del león? ¿A qué velocidad puedo correr? ¿A qué velocidad
-
-
-:::
-::: {.column width="40%"}
-Probando
-
-:::
-::::::::::::::
-
 
 ::: notes
 
+
+:::
+
+## ¿Cómo resuelve el problema el mono?
+
+El babuino necesita tener en cuenta muchos *datos*: 
+
+:::incremental
+- ¿Qué distancia me separa de las bananas? 
+- ¿Y del león? 
+- ¿A qué velocidad puedo correr? 
+- ¿A qué velocidad puede correr el león?
+:::
+
+:::notes
+
+Nosotros: de forma inconsciente, como el mono, o consciente.
 
 :::
 
@@ -221,9 +237,11 @@ Comentar los resultados.
 ![](assets/images/toyhouse.png)
 
 :::
-::: {.column width="35%"}
+::: {.column width="55%"}
 
 :::incremental
+Como señalan [Batanero y Godino](https://www.ugr.es/~jgodino/edumat-maestros/manual/6_Estocastica.pdf)
+
 - Proporcionar una amplia variedad de experiencias que permitan observar los fenómenos aleatorios y diferenciarlos de los deterministas.
 - Estimular la expresión de predicciones sobre el comportamiento de estos fenómenos y los resultados, así como su probabilidad.
 
@@ -239,14 +257,16 @@ Comentar los resultados.
 ## 
 
 :::incremental
-- Organizar la recogida de datos de experimentación de modo que los alumnos tengan posibilidad de contrastar sus predicciones con los resultados producidos y revisar sus creencias en función de los resultados.
+- Organizar la recogida de datos de modo que se puedan contrastar las predicciones con lo obtenido y así los alumnos puedan revisar sus creencias.
 - Resaltar el carácter imprevisible de cada resultado aislado, así como la variabilidad de las pequeñas muestras, mediante la comparación de resultados de cada niño o por parejas.
-- Ayudar a apreciar el fenómeno de la convergencia mediante la acumulación de  resultados de toda la clase y comparar la fiabilidad de pequeñas y grandes muestras.
+- Ayudar a apreciar el fenómeno de la convergencia mediante la acumulación de resultados de toda la clase y comparar la fiabilidad de pequeñas y grandes muestras.
 :::
 
-# No enseñes matemáticas a la manera "inteligente"
-## Si eres bueno en mates, es que eres muy inteligente
-Un post de [\@ddmeyer](http://blog.mrmeyer.com/2019/dont-teach-math-the-smart-way/)
+## No enseñes matemáticas a la manera "inteligente"
+
+_Si eres bueno en mates, es que eres muy inteligente._
+
+Un post de [\@ddmeyer](http://blog.mrmeyer.com/2019/dont-teach-math-the-smart-way/):
 
 ![](assets/images/smartway.jpg){width=60%}
 
@@ -271,28 +291,35 @@ Un post de [\@ddmeyer](http://blog.mrmeyer.com/2019/dont-teach-math-the-smart-wa
 
 
 
-
-
-
 # Experimentación y estimación frecuencial de probabilidades
 
 ## 
-En este tipo de actividades se proporciona a los alumnos algunos dispositivos generadores de resultados aleatorios, como dados, monedas, fichas, ruletas, etc. La finalidad será que los alumnos experimenten y adquieran una experiencia de lo aleatorio, incluyendo la observación de la imprevisibilidad de resultados, la variabilidad de las pequeñas muestras y la convergencia gradual a la probabilidad teórica. Será necesario que el profesor organice la recogida de datos, la representación gráfica de los resultados y la discusión de los mismos. Se animará a los alumnos a expresar sus creencias previas sobre los fenómenos aleatorios y a contrastarlas con los resultados experimentales. La recogida de datos, organización en tablas y representación gráfica permite conectar este tema con la estadística.
 
+::: incremental
+
+- Aquí los alumnos experimentan con dispositivos generadores de resultados aleatorios.
+- El profesor gestiona los momentos de la recogida de datos, la representación gráfica de los resultados y la discusión o puesta en común. 
+- Se trata de animar a los alumnos a expresar sus creencias previas sobre los fenómenos aleatorios y a contrastarlas con los resultados experimentales. 
+- Son mini-proyectos estadísticos.
+
+:::
+
+. . .
+
+[Enlace a los materiales de Edumat](https://www.ugr.es/~jgodino/edumat-maestros/)
 
 #  Construcción de dispositivos aleatorios 
 
 ## Construcción de dispositivos aleatorios 
 
 :::::::::::::: {.columns}
-::: {.column width="60%"}
+::: {.column width="65%"}
 
-- Construir dispositivos aleatorios (dados, ruletas, etc.) con resultados tanto equiprobables como no equiprobables. 
+- Dados, ruletas, etc. con resultados tanto equiprobables como no equiprobables. 
 
 :::incremental
-- Objetivos:
-	* Distinguir los casos en que es posible o no es posible aplicar el **principio de indiferencia**.
-	* Apreciar la utilidad de la **estimación frecuencial** de la probabilidad.
+- Distinguir los casos en que es posible o no es posible aplicar el **principio de indiferencia**.
+- Apreciar la utilidad de la **estimación frecuencial** de la probabilidad.
 - Conexiones intra y extra-curriculares
 	* Poliedros regulares y no regulares, desarrollos.
 	* Sector circular.
@@ -308,6 +335,8 @@ En este tipo de actividades se proporciona a los alumnos algunos dispositivos ge
 
 
 ## Con papel, tijeras y pegamento...
+
+Actividad tomada de [Batanero y Godino](https://www.ugr.es/~jgodino/edumat-maestros/manual/6_Estocastica.pdf)
 
 :::::::::::::: {.columns}
 ::: {.column width="55%"}
@@ -331,14 +360,16 @@ Actividad tomada de Batanero y Godino (2003)
 
 ## Con papel, tijeras y pegamento...
 
-
-3. Construye otro dado y pega un pequeño peso en la cara del uno (un botón). Así tenemos un dado sesgado.
-
 :::incremental
 
+3. Construye otro dado y pega un pequeño peso en la cara del uno (un botón). Así tenemos un dado sesgado.
 4. ¿Qué consecuencias tiene el hecho de que una cara del dado pese más que las restantes? En este caso, obtener un 1, ¿es más, menos o igual de probable que antes? ¿Puedes construir un dado sesgado de tal manera que casi siempre salga el 5?
-5. Construye dados sesgados y no sesgados que tengan más de 6 resultados posibles. Construye dados sesgados y no sesgados con poliedros regulares. ¿Cuáles son los poliedros regulares con los que puedes construir dados no sesgados? ¿Podrías construir un dado no sesgado con un poliedro no regular?
+
 :::
+
+## Con papel, tijeras y pegamento
+
+5. Construye dados sesgados y no sesgados que tengan más de 6 resultados posibles. Construye dados sesgados y no sesgados con poliedros regulares. ¿Cuáles son los poliedros regulares con los que puedes construir dados no sesgados? ¿Podrías construir un dado no sesgado con un poliedro no regular?
 
 . . .
 
@@ -353,7 +384,7 @@ Actividad tomada de Batanero y Godino (2003)
 :::::::::::::: {.columns}
 ::: {.column width="55%"}
 - Origami modular.
-- Gran potencial.
+- Conexión con la geometría.
 :::
 
 ::: {.column width="35%"}
@@ -364,13 +395,26 @@ Módulo Sonobe
 
 :::::::::::::
 
-:::notes
+##
+
+Alumnado de 2º, 3º y 4º de Primaria.
+
+:::::::::::::: {.columns}
+::: {.column width="45%"}
+![](assets/images/sonobe2.jpg)
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/sonobe3.jpg)
 
 :::
 
-# Con software de modelado en 3D
+:::::::::::::
 
-## 
+
+## Con software de modelado en 3D
+ 
 
 :::::::::::::: {.columns}
 ::: {.column width="55%"}
@@ -378,7 +422,7 @@ Módulo Sonobe
 
 :::
 ::: {.column width="35%"}
-![](assets/images/builder.jpg)
+![](assets/images/builder.jpg){ width=70% }
 
 :::
 :::::::::::
@@ -387,7 +431,7 @@ Módulo Sonobe
 
 >La tarea consiste en diseñar un dado con ordenador. Es voluntario y añade 0,5 puntos al examen de geometría. Después, imprimiré en 3D vuestros dados, que os podréis quedar, y os pediré que los probéis para ver si están o no sesgados. 
 
-![](assets/images/tinker.png)
+![](assets/images/tinker.png){ width=70% }
 
 ## Tras unos días...
 - Plazo de una semana para la entrega de los diseños, recogiendo finalmente las producciones de 10 alumnos. 
@@ -408,12 +452,20 @@ Dado con las esquinas redondeadas (forma básica)
 ## No es fácil diseñar un dado
 **Debates en la comunidad maker**
 
+::: incremental
+
 - Los dados con esquinas más redondeadas, evidentemente, ruedan más. Esto es algo que amplifica cualquier sesgo de diseño, lo que constituye una ventaja de cara a nuestros objetivos.
 - Si colocamos el dado para que se imprima girado 45º, obtenemos mejores resultados.
 - El porcentaje de relleno de los dados influye. El software traductor permite ahorrar plástico, rellenando el interior de la pieza con un mallado rectangular o hexagonal. Se comprueba que es mejor imprimir dados sólidos al 100%.
+:::
+
+. . .
+
 [Ver hilo en thingiverse](http://www.thingiverse.com/thing:147883/#comments)
 
 ## Resultados (tipos de errores)
+
+::: incremental
 
 1. Cuando se indican los puntos con cavidades, no se ha retirado la misma cantidad de material en todas las caras, por lo que unas caras pesan más que otras.
 2. Un error similar se produce cuando en lugar de retirar material, se añade, con lo que se propicia que se mantenga sobre ciertas caras mayor masa que en otras. 
@@ -421,6 +473,7 @@ Dado con las esquinas redondeadas (forma básica)
 4.  No se centran o alinean los puntos de cada cara, lo cual influye también en la distribución de masa del dado.
 5.  El dado no presenta las mismas dimensiones en todas sus caras. 
 
+:::
 
 ## En el máster de ESO (2017/18)
 
@@ -431,22 +484,13 @@ Dado con las esquinas redondeadas (forma básica)
 
 ![](assets/images/dados-caixa.jpg)
 
-## Resultados no equiprobables: algo muy simple
+## Algo muy simple para resultados no equiprobables
 
-:::::::::::::: {.columns}
-::: {.column width="35%"}
+Con un clip y un boli
 
-1. Con un clip y un boli
 
-:::
+![](assets/images/ruletaclip.jpg){ width=60%}
 
-::: {.column width="55%"}
-
-![](assets/images/ruletaclip.jpg)
-
-:::
-
-:::::::::::::
 
 
 
@@ -568,7 +612,21 @@ The Big Bang Theory
 
 Infantil y primaria
 
-![](assets/images/catan0.jpg){ width=60% }
+![](assets/images/catan0.jpg){ width=30% }
+
+Gana el jugador que primero construye todas sus guaridas y, para ello, hay que ir aumentando también la flota de barcos y así poder abrir nuevas rutas.
+
+##
+
+::: incremental
+
+- En cada turno, se lanza el dado, y en función de lo que salga te tocan unos recursos (oro, sable, madera, oveja o piña) o aparece en escena el pirata rapaz.
+- Siempre puede cambiarse, una sola vez por turno, una ficha de recurso por una de los salvavidas.
+- Siempre pueden cambiarse, las veces que se deseen, dos fichas de recurso por una de la reserva general.
+- En cada turno se construye lo que se desee (guarida o barco) o se pide ayuda al loro Coco, las veces que se quiera. Pedir ayuda al loro significa que se consigue una ficha de Coco, que viene con sorpresa (recursos o mover al pirata rapaz).
+- El que más fichas de Coco tenga, pone una guarida sin coste en el centro del tablero. Si alguien consigue más fichas, esa guarida se cambia. Y si hay dos jugadores con el mismo número de fichas, no se pone guarida.
+
+:::
 
 ## 
 
@@ -591,19 +649,25 @@ Infantil y primaria
 
 :::::::::::::
 
+Ampliación de todo esto... [Enlace a mi blog.](http://www.tierradenumeros.com/2017/04/catan-junior-juego-de-mesa.html)
+
 
 ## Leyendas de Andor
 
-![](assets/images/andor0.jpg){ width=80% }
+- Primaria en adelante. 
+- Toma de decisiones en situaciones de incertidumbre.
+- Cooperativo. Mucha conversación para decidir qué hacer.
 
-## 
-
-![](assets/images/andor1.jpg){ width=80% }
-
+![](assets/images/andor0.jpg){ width=50% }
 
 ## 
 
 ![](assets/images/andor3.jpg){ width=80% }
+
+
+## 
+
+![](assets/images/andor1.jpg){ width=80% }
 
 
 
@@ -621,10 +685,48 @@ Pensamiento computacional y toma de decisiones en el Far West.
 ![](assets/images/colt2.png){ width=80% }
 
 
-## Adaptaciones 
+## Adaptaciones
+
+Tabú o juego de las palabras prohibidas.
 
 
+![](assets/images/tabu0.png){ width=80% }
 
+Beltrán-Pellicer, P., Ricart, M., & Estrada, A. (2019). Una experiencia sobre el diseño de juegos como recurso para desarrollar la competencia didáctico-matemática en probabilidad con docentes de infantil y primaria. _Tercer Congreso Internacional Virtual de Educación Estadística_ (pp. 1-10). [Enlace](https://www.researchgate.net/publication/331435985_Una_experiencia_sobre_el_diseno_de_juegos_como_recurso_para_desarrollar_la_competencia_didactico-matematica_en_probabilidad_con_docentes_de_infantil_y_primaria)
+
+##
+
+Se planteó el diseño o adaptación de un juego como experiencia formativa.
+
+![](assets/images/tabu1.png){ width=50% }
+
+Producción de las participantes del Máster (2017/18).
+
+## Mini-juegos
+
+[Beano](http://web.mit.edu/mitstep/sites/default/files/Beano.pdf)
+
+:::::::::::::: {.columns}
+::: {.column width="45%"}
+
+![](assets/images/beano2.jpg){ width=95% }
+
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/beano3.jpg){ width=95% }
+:::
+
+:::::::::::::
+
+
+::: notes
+
+Batanero en alguno de sus artículos menciona un juego similar, que consiste en alcanzar la orilla contraria. Gana el que pasa todas sus fichas.
+
+:::
 
 # Dibujos animados
 
@@ -687,7 +789,7 @@ Miniproyecto estadístico para la toma de una decisión.
 
 ## Juego justo
 
-[Youtube: Cyberchase 1x03 "Ciudad justa"](https://www.youtube.com/watch?v=iw-6fUT8iC4)
+[Cyberchase 1x03 "Ciudad justa"](https://www.youtube.com/watch?v=iw-6fUT8iC4)
 
 ![](assets/images/cyber01.png){ width=60% }
 
@@ -704,9 +806,24 @@ Miniproyecto estadístico para la toma de una decisión.
 
 [Chance experiments](https://teacher.desmos.com/activitybuilder/custom/59233c9aefd17610dbbd684e)
 
-![](assets/images/desmoschance.jpg){width=60%}
+![](assets/images/desmoschance.png){width=80%}
 
+# Para terminar
 
+## Esto va de oportunidades de aprendizaje
+
+![](assets/images/estudioartu1.jpg){width=80%}
+
+::: notes
+Algo no le cuadra...
+
+:::
+
+##
+
+![](assets/images/estudioartu2.jpg){width=80%}
+
+Fin de la presentación.
 
 # Créditos y referencias
 
@@ -736,7 +853,7 @@ Vásquez, C., & Alsina, A. (2019). Conocimiento especializado del profesorado de
 
 _Compartir el conocimiento de forma libre es una buena práctica._
 
-En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, pero tienes que citarme (Pablo Beltrán-Pellicer) y poner un enlace a [https://pbeltran.github.io/2019iceudl](https://pbeltran.github.io/2019iceudl). 
+En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándome (Pablo Beltrán-Pellicer) y poniendo un enlace a [https://pbeltran.github.io/2019iceudl](https://pbeltran.github.io/2019iceudl). 
 
 _Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
 
