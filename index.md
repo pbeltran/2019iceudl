@@ -582,7 +582,7 @@ la introducción de la probabilidad
 ## El frutal (Obstgarten)
 
 
-![](assets/images/frutal1.jpg){ width=62% }
+![](assets/images/frutal01.jpg){ width=62% }
 
 Beltrán-Pellicer, P. (2017). Una propuesta sobre probabilidad en educación infantil con juegos de mesa. _EDMA0-6, 6_(1), 53-61. [Enlace.](http://www.edma0-6.es/index.php/edma0-6/article/view/25/22)
 
@@ -592,7 +592,7 @@ Beltrán-Pellicer, P. (2017). Una propuesta sobre probabilidad en educación inf
 :::::::::::::: {.columns}
 ::: {.column width="65%"}
 
-![](assets/images/frutal3.jpg)
+![](assets/images/frutal03.jpg)
 
 :::
 
@@ -614,7 +614,7 @@ Beltrán-Pellicer, P. (2017). Una propuesta sobre probabilidad en educación inf
 :::::::::::::: {.columns}
 ::: {.column width="35%"}
 
-![](assets/images/frutal2.jpg){ width=80% }
+![](assets/images/frutal02.jpg){ width=80% }
 
 
 :::
