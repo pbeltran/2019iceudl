@@ -222,7 +222,7 @@ Nosotros: de forma inconsciente, como el mono, o consciente.
 
 ::: notes
 
-Comentar los resultados.
+Comentar los resultados sobre teacher.desmos.com
 
 :::
 
@@ -508,7 +508,7 @@ Dado con las esquinas redondeadas (forma básica)
 1. Cuando se indican los puntos con cavidades, no se ha retirado la misma cantidad de material en todas las caras, por lo que unas caras pesan más que otras.
 2. Un error similar se produce cuando en lugar de retirar material, se añade, con lo que se propicia que se mantenga sobre ciertas caras mayor masa que en otras. 
 3. No se tiene en cuenta que la suma de las puntuaciones de las caras debería sumar 7 para facilitar el equilibrado del dado (esto está relacionado con el error de tipo 2), como ocurre en los dados estándar.
-4.  No se centran o alinean los puntos de cada cara, lo cual influye también en la distribución de masa del dado.
+4. No se centran o alinean los puntos de cada cara, lo cual influye también en la distribución de masa del dado.
 5.  El dado no presenta las mismas dimensiones en todas sus caras. 
 
 :::
