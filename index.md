@@ -762,7 +762,7 @@ Producción de las participantes del Máster (2017/18).
 
 ::: notes
 
-Batanero en alguno de sus artículos menciona un juego similar, que consiste en alcanzar la orilla contraria. Gana el que pasa todas sus fichas.
+Hay un juego similar, que consiste en alcanzar la orilla contraria. Gana el que pasa todas sus fichas.
 
 :::
 
